@@ -1,1 +1,4 @@
-#
+#SPU
+ws.sportsfun.app spu_ws_nodes
+sc.sportsfun.app spu_sc_nodes
+fps-api.sportsfun.app spu_fps_api_nodes
