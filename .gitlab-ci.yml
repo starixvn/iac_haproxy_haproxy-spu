@@ -1,5 +1,5 @@
 variables:
-  ENV: "local"
+  ENV: "uat"
 
 stages: 
   - test
