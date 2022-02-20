@@ -1,4 +1,4 @@
-#domain backendname
+#domain backendnames
 spumain.starixuat.com spu_nap_main_service_UAT
 spucts.starixuat.com spu_nap_cts_job_service_UAT
 spuctscc.starixuat.com spu_nap_cts_cc_job_service_UAT
