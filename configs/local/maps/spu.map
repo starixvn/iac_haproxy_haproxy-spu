@@ -27,3 +27,4 @@ spu-fs-job.nexdev.net nap_spu_fs_job_service_LOCAL_nodes
 spu-dcs-job.nexdev.net nap_spu_dcs_job_service_LOCAL_nodes
 spu-cts-job.nexdev.net nap_spu_cts_job_service_LOCAL_nodes
 spu-main.nexdev.net nap_spu_main_service_LOCAL_nodes
+spu-fps-job-management.nexdev.net nap_spu_fp_job_management_service_LOCAL_nodes
