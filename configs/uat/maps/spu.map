@@ -1,9 +1,9 @@
 #domain backendnames
-spumain.starixuat.com spu_nap_main_service_UAT
-spucts.starixuat.com spu_nap_cts_job_service_UAT
-spuctscc.starixuat.com spu_nap_cts_cc_job_service_UAT
-spudcs.starixuat.com spu_nap_dcs_job_service_UAT
-spufs.starixuat.com spu_nap_fs_job_service_UAT
-spuvr.starixuat.com spu_nap_vr_job_service_UAT
-sputgr.starixuat.com spu_nap_tgr_job_service_UAT
-spuafc.starixuat.com spu_nap_afc_job_service_UAT_be
+spumain.starixuat.com spu_nap_spu_main_service_UAT_be
+spucts.starixuat.com spu_nap_spu_cts_job_service_UAT_be
+spuctscc.starixuat.com spu_nap_spu_cts_cc_job_service_UAT_be
+spudcs.starixuat.com spu_nap_spu_dcs_job_service_UAT_be
+spufs.starixuat.com spu_nap_spu_fs_job_service_UAT_be
+spuvr.starixuat.com spu_nap_spu_vr_job_service_UAT_be
+sputgr.starixuat.com spu_nap_spu_tgr_job_service_UAT_be
+spuafc.starixuat.com spu_nap_spu_afc_job_service_UAT_be
