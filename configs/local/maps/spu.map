@@ -29,4 +29,4 @@ spu-dcs-job.nexdev.net spu_nap_spu_dcs_job_service_LOCAL_be
 spu-cts-job.nexdev.net spu_nap_spu_cts_job_service_LOCAL_be
 spu-main.nexdev.net spu_nap_spu_main_service_LOCAL_be
 spu-fps-job-management.nexdev.net spu_fps_fp_job_management_service_LOCAL_be
-nexdev.net nexus_redmine_nodes_PROD
+nexdev.net nexus_nexcel_redmine_PROD_be
