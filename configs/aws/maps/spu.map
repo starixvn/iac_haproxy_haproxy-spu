@@ -2,3 +2,12 @@
 ws.sportsfun.app spu_ws_nodes
 sc.sportsfun.app spu_sc_nodes
 fps-api.sportsfun.app spu_fps_api_nodes
+spumain.sportsfun.app spu_nap_spu_main_service_AWS_be
+spucts.sportsfun.app spu_nap_spu_cts_job_service_AWS_be
+spudcs.sportsfun.app spu_nap_spu_dcs_job_service_AWS_be
+spufs.sportsfun.app spu_nap_spu_fs_job_service_AWS_be
+spuvr.sportsfun.app spu_nap_spu_vr_job_service_AWS_be
+spuctscc.sportsfun.app spu_nap_spu_cts_cc_job_service_AWS_be
+sputgr.sportsfun.app spu_nap_spu_tgr_job_service_AWS_be
+spuafc.sportsfun.app spu_nap_spu_afc_job_service_AWS_be
+spufsbsng.sportsfun.app spu_nap_spu_fs_bsng_job_service_AWS_be
