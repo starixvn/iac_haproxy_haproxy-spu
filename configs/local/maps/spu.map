@@ -17,7 +17,7 @@ cts.nexdev.net spu_cts_be
 fs.nexdev.net spu_fraudsensor2_be
 tgrs.nexdev.net spu_naptgrs_be
 spu-afc-job.nexdev.net spu_nap_spu_afc_job_service_LOCAL_be
-spu-fps-api-base.nexdev.net spu_nap_fps_web_api_job_service_LOCAL_be
+spu-fps-api-base.nexdev.net spu_fps_fps_web_api_job_service_LOCAL_be
 spu-fps-api.nexdev.net spu_fps_fps_web_api_job_service_LOCAL_be
 spu-cts-cc-job-v2.nexdev.net spu_nap_spu_cts_cc_job_service_LOCAL_2_be
 spu-cts-cc-job-v1.nexdev.net spu_nap_spu_cts_cc_job_service_LOCAL_1_be
