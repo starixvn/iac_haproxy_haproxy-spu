@@ -12,6 +12,7 @@ afc-api.nexdev.net spu_afc_api_be
 afc-nova88-api.nexdev.net spu_afc_nova88_api_be
 spu-fs-bsng-job.nexdev.net spu_nap_spu_fs_bsng_job_service_LOCAL_be
 spu-fps-job-api.nexdev.net spu_fps_fp_api_job_service_LOCAL_be
+spu-fps-job-api-dev.nexdev.net spu_fps_fp_api_job_service_LOCAL_1_be
 cts-api.nexdev.net spu_cts_portal_api_be
 cts.nexdev.net spu_cts_be
 fs.nexdev.net spu_fraudsensor2_be
