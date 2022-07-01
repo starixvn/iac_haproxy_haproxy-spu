@@ -28,6 +28,8 @@ spu-vr-job.nexdev.net spu_nap_spu_vr_job_service_LOCAL_be
 spu-fs-job.nexdev.net spu_nap_spu_fs_job_service_LOCAL_be
 spu-dcs-job.nexdev.net spu_nap_spu_dcs_job_service_LOCAL_be
 spu-cts-job.nexdev.net spu_nap_spu_cts_job_service_LOCAL_be
+spu-cts-job-v1.nexdev.net spu_nap_spu_cts_job_service_LOCAL_1_be
+spu-cts-job-v2.nexdev.net spu_nap_spu_cts_job_service_LOCAL_2_be
 spu-main.nexdev.net spu_nap_spu_main_service_LOCAL_be
 spu-main-v2.nexdev.net spu_nap_spu_main_service_LOCAL_2_be
 spu-main-v3.nexdev.net spu_nap_spu_main_service_LOCAL_3_be
