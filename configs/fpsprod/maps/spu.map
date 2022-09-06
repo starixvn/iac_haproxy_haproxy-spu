@@ -9,3 +9,4 @@ sputgr.oneops.net spu_nap_spu_tgr_job_service_FPSPROD_be
 spuafc.oneops.net spu_nap_spu_afc_job_service_FPSPROD_be
 neo4j.oneops.net spu_cts_neo4j_monitor_data_FPSPROD_be
 fpsjobs.oneops.net spu_fps_fp_job_management_service_FPSPROD_be
+fpc.detecas.com spu_fps_fps_web_api_job_service_FPSPROD_be
