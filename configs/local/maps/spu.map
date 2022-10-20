@@ -33,6 +33,5 @@ spu-cts-job-v2.nexdev.net spu_nap_spu_cts_job_service_LOCAL_2_be
 spu-main.nexdev.net spu_nap_spu_main_service_LOCAL_be
 spu-main-v2.nexdev.net spu_nap_spu_main_service_LOCAL_2_be
 spu-main-v3.nexdev.net spu_nap_spu_main_service_LOCAL_3_be
-spu-fps-job-management.nexdev.net spu_fps_fp_job_management_service_LOCAL_be
 fps-demo-standard.nexdev.net spu_fps_fp_demo_net_standard_LOCAL_be
 #nexdev.net nexus_nexcel_redmine_PROD_be
