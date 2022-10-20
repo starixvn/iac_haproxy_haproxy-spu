@@ -1,5 +1,5 @@
-/ spu_fps_fp_job_management_service_LOCAL_path_be
 ^/jobapi2(/.*)?$ spu_fps_fp_api_job_service_LOCAL_1_path_be
 ^/jobapi1(/.*)?$ spu_fps_fp_api_job_service_LOCAL_path_be
 ^/jobmonitoring(/.*)?$ spu_fps_fp_job_management_service_LOCAL_path_be
 ^/evolution(/.*)?$ spu_fps_fp_api_evolution_service_LOCAL_path_be
+/ spu_fps_fp_job_management_service_LOCAL_path_be
