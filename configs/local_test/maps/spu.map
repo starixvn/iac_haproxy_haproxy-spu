@@ -1,0 +1,3 @@
+#s2domainname           backendname
+spu.haproxydev.local be_staticspu
+spu2.haproxydev.local be_wwwspu
