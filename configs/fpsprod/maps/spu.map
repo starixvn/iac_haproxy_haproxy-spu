@@ -1,5 +1,6 @@
 fpsportalapi.nebula.prod spu_fps_fps_portal_web_api_job_service_FPSPROD_be
 fpsportalapi.oneops.net spu_fps_fps_portal_web_api_job_service_FPSPROD_be
+fpp.detecas.com spu_fps_fps_portal_web_api_job_service_FPSPROD_be
 ###SPU
 spumain.oneops.net spu_nap_spu_main_service_FPSPROD_be
 spucts.oneops.net spu_nap_spu_cts_job_service_FPSPROD_be
