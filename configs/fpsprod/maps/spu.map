@@ -18,3 +18,4 @@ fpsapi.starixplay.com fps_api_detecas_internal_be
 fpsmiddleapi.starixplay.com fps_middle_api_internal_be
 fpswebservice.starixplay.com fps_web_ws_detecas_com_internal_be
 fpsapi.nebula.prod fps_api_detecas_internal_be
+api-uat.nebula.prod spu_fps_api_uat_be
