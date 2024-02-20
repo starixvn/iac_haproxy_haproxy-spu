@@ -1,4 +1,5 @@
 spu-fps-trans-api.nexdev.net spu_fps_fps_trans_web_api_job_service_LOCAL_be
+fps-newapi.nexdev.net spu_fps_fps_trans_web_api_job_service_LOCAL_be
 fps-guide.nexdev.net spu_fps_integration_site_LOCAL_be
 spu-http2-api.nexdev.net spu_fps_http2_fingerprint_service_LOCAL_be
 spu-fps-api-base.nexdev.net spu_nap_fps_web_api_job_service_LOCAL_be
@@ -16,7 +17,6 @@ fps-api.nexdev.net spu_fps_webservice_be
 fps-api2.nexdev.net spu_fps_api2_be
 tgrs-api.nexdev.net spu_naptgrs_webapi_be
 fps-demo.nexdev.net spu_fps_dfp_demo_be
-fps-newapi.nexdev.net spu_fps_integration_api_be
 afc-api.nexdev.net spu_afc_api_be
 afc-nova88-api.nexdev.net spu_afc_nova88_api_be
 spu-fs-bsng-job.nexdev.net spu_nap_spu_fs_bsng_job_service_LOCAL_be
