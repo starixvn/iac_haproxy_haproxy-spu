@@ -6,9 +6,7 @@ spumain.starixuat.com spu_nap_spu_main_service_UAT_be
 spucts.starixuat.com spu_nap_spu_cts_job_service_UAT_be
 spuctscc.starixuat.com spu_nap_spu_cts_cc_job_service_UAT_be
 spudcs.starixuat.com spu_nap_spu_dcs_job_service_UAT_be
-spufs.starixuat.com spu_nap_spu_fs_job_service_UAT_be
 spuvr.starixuat.com spu_nap_spu_vr_job_service_UAT_be
-sputgr.starixuat.com spu_nap_spu_tgr_job_service_UAT_be
 spuafc.starixuat.com spu_nap_spu_afc_job_service_UAT_be
 cts-api.starixuat.com spu_CTS_Portal_API_be
 ###internal
