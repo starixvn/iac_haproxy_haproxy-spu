@@ -15,7 +15,7 @@ spuafc.oneops.net spu_nap_spu_afc_job_service_FPSPROD_be
 fpc.detecas.com spu_fps_fp_web_api_job_service_FPSPROD_be
 
 ###INTERNAL
-fpsapi.starixplay.com fps_api_detecas_internal_be
+fpsapi.starixplay.com spu_fps_fps_trans_web_api_job_service_FPSPROD_be
 fpsmiddleapi.starixplay.com fps_middle_api_internal_be
 fpswebservice.starixplay.com fps_web_ws_detecas_com_internal_be
 fpsapi.nebula.prod spu_fps_fps_trans_web_api_job_service_FPSPROD_be
