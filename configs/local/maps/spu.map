@@ -41,3 +41,4 @@ spu-main-v3.nexdev.net spu_nap_spu_main_service_LOCAL_3_be
 fps-demo-standard.nexdev.net spu_fps_fp_demo_net_standard_LOCAL_be
 #nexdev.net nexus_nexcel_redmine_PROD_be
 spu-http2-api.nexdev.net fps_http2_fingerprint_service_LOCAL_tcp
+fps-oldapi.nexdev.net spu_fps_integration_api_be
