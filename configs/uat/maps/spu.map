@@ -1,4 +1,4 @@
-fpt-uat.starixuat.com spu_fps_fps_trans_web_api_job_service_UAT_be
+fpt-uat.starixuat.com:6012 spu_fps_fps_trans_web_api_job_service_UAT_be
 fpsfpp.starixuat.com spu_fps_fps_portal_web_api_job_service_UAT_be
 fpsfpc.starixuat.com spu_fps_fp_web_api_job_service_UAT_be
 #domain backendnames
@@ -10,3 +10,4 @@ spuvr.starixuat.com spu_nap_spu_vr_job_service_UAT_be
 spuafc.starixuat.com spu_nap_spu_afc_job_service_UAT_be
 cts-api.starixuat.com spu_CTS_Portal_API_be
 ###internal
+fpt-uat.nebula.prod spu_fps_fps_trans_web_api_job_service_UAT_be
