@@ -2,7 +2,7 @@ api.detecas.com spu_fps_fp_trans_web_api_service_FPSPROD_be
 exapi.casemed.net spu_fps_fp_external_api_web_service_FPSPROD_be
 exapi.saceted.com spu_fps_fp_external_api_web_service_FPSPROD_be
 exapi.detecas.com spu_fps_fp_external_api_web_service_FPSPROD_be
-fpswebapi.nebula.prod spu_fps_fps_web_api_job_service_FPSPROD_be
+#fpswebapi.nebula.prod spu_fps_fps_web_api_job_service_FPSPROD_be
 fpsportalapi.nebula.prod spu_fps_fps_portal_web_api_job_service_FPSPROD_be
 fpsportalapi.oneops.net spu_fps_fps_portal_web_api_job_service_FPSPROD_be
 fpp.detecas.com spu_fps_fps_portal_web_api_job_service_FPSPROD_be
@@ -12,11 +12,11 @@ fpp.casemed.net spu_fps_fps_portal_web_api_job_service_FPSPROD_be
 #spumain.oneops.net spu_nap_spu_main_service_FPSPROD_be
 #spucts.oneops.net spu_nap_spu_cts_job_service_FPSPROD_be
 spudcs.oneops.net spu_nap_spu_dcs_job_service_FPSPROD_be
-spufs.oneops.net spu_nap_spu_fs_job_service_FPSPROD_be
-spuvr.oneops.net spu_nap_spu_vr_job_service_FPSPROD_be
-spuctscc.oneops.net spu_nap_spu_cts_cc_job_service_FPSPROD_be
-sputgr.oneops.net spu_nap_spu_tgr_job_service_FPSPROD_be
-spuafc.oneops.net spu_nap_spu_afc_job_service_FPSPROD_be
+#spufs.oneops.net spu_nap_spu_fs_job_service_FPSPROD_be
+#spuvr.oneops.net spu_nap_spu_vr_job_service_FPSPROD_be
+#spuctscc.oneops.net spu_nap_spu_cts_cc_job_service_FPSPROD_be
+#sputgr.oneops.net spu_nap_spu_tgr_job_service_FPSPROD_be
+#spuafc.oneops.net spu_nap_spu_afc_job_service_FPSPROD_be
 fpc.detecas.com spu_fps_fp_web_api_job_service_FPSPROD_be
 
 ###INTERNAL
