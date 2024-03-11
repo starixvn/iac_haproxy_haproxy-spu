@@ -9,8 +9,8 @@ fpp.detecas.com spu_fps_fps_portal_web_api_job_service_FPSPROD_be
 fpp.saceted.com spu_fps_fps_portal_web_api_job_service_FPSPROD_be
 fpp.casemed.net spu_fps_fps_portal_web_api_job_service_FPSPROD_be
 ###SPU
-spumain.oneops.net spu_nap_spu_main_service_FPSPROD_be
-spucts.oneops.net spu_nap_spu_cts_job_service_FPSPROD_be
+#spumain.oneops.net spu_nap_spu_main_service_FPSPROD_be
+#spucts.oneops.net spu_nap_spu_cts_job_service_FPSPROD_be
 spudcs.oneops.net spu_nap_spu_dcs_job_service_FPSPROD_be
 spufs.oneops.net spu_nap_spu_fs_job_service_FPSPROD_be
 spuvr.oneops.net spu_nap_spu_vr_job_service_FPSPROD_be
