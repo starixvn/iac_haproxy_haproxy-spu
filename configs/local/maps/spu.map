@@ -1,8 +1,7 @@
-spu-fps-gateway-api.nexdev.net spu_fps_fp_gateway_api_service_LOCAL_be
+fpt-local.nexdev.net spu_fps_fp_gateway_api_service_LOCAL_be
 passfbtpb-sai.nexdev.net spu_nap_wasa_sai_pas_sfb_tpb_service_LOCAL_be
 fpsjschallenger.nexdev.net spu_fps_fp_api_js_challenger_service_LOCAL_be
 chinesepoker-sai.nexdev.net spu_nap_wasa_sai_chinesepoker_service_LOCAL_be
-fpt-local.nexdev.net spu_fps_fp_trans_web_api_service_LOCAL_be
 spu-fps-ext-api.nexdev.net spu_fps_fp_external_api_web_service_LOCAL_be
 fps-guide.nexdev.net spu_fps_integration_site_LOCAL_be
 spu-http2-api.nexdev.net spu_fps_http2_fingerprint_service_LOCAL_be
