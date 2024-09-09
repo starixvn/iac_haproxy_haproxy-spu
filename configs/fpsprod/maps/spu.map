@@ -1,4 +1,5 @@
 api.detecas.com spu_fps_fp_gateway_api_service_FPSPROD_be
+fpsapi.nebula.prod spu_fps_fp_gateway_api_service_FPSPROD_be
 fpjsc.detecas.com spu_fps_fp_api_js_challenger_service_FPSPROD_be
 fpjsc.casemed.net spu_fps_fp_api_js_challenger_service_FPSPROD_be
 fpjsc.saceted.com spu_fps_fp_api_js_challenger_service_FPSPROD_be
@@ -26,4 +27,3 @@ fpc.detecas.com spu_fps_fp_web_api_job_service_FPSPROD_be
 fpsmiddleapi.starixplay.com fps_middle_api_internal_be
 fpswebservice.starixplay.com fps_web_ws_detecas_com_internal_be
 api-uat.nebula.prod spu_fps_api_uat_be
-fpsapi.nebula.prod spu_fps_fp_trans_web_api_service_FPSPROD_be
