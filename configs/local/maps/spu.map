@@ -35,6 +35,7 @@ neo4j-monitor.nexdev.net spu_cts_neo4j_monitor_data_LOCAL_be
 fps-admin.nexdev.net spu_fps_admin_be
 fps-sub.nexdev.net spu_fps_sub_be
 fps-di.nexdev.net spu_di_be
+fps-di2.nexdev.net spu_di_be
 fps-api.nexdev.net spu_fps_webservice_be
 fps-api2.nexdev.net spu_fps_api2_be
 tgrs-api.nexdev.net spu_naptgrs_webapi_be
