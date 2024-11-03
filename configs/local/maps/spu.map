@@ -1,3 +1,4 @@
+rdtd-sai.nexdev.net spu_ai_wasa_sai_rd_td_service_LOCAL_be
 spu-cts-agencycc-job-v3.nexdev.net spu_nap_spu_cts_agencycc_job_service_LOCAL_3_be
 spu-cts-agencycc-job-v4.nexdev.net spu_nap_spu_cts_agencycc_job_service_LOCAL_4_be
 spu-cts-cc-job-v4.nexdev.net spu_nap_spu_cts_cc_job_service_LOCAL_4_be
@@ -13,7 +14,6 @@ pasabtsarp-sai.nexdev.net spu_ai_wasa_sai_pas_abt_sarp_service_LOCAL_be
 paccredit-sai.nexdev.net spu_nap_wasa_sai_pac_credit_service_LOCAL_be
 dmmdatashift-sai.nebula.prod spu_nap_wasa_sai_dmm_data_shift_LOCAL_be
 fps-incognito-demo.nexdev.net spu_fps_incognito_mode_demo_LOCAL_be
-rdtd-sai.nexdev.net spu_ai_wasa_sai_rd_td_service_LOCAL_be
 spu-fps-api2.nexdev.net spu_fps_fp_web_api_job_service_LOCAL_2_be
 rdocrd-sai.nexdev.net spu_nap_wasa_sai_rd_ocrd_service_LOCAL_be
 fpt-api.nexdev.net spu_fps_fp_trans_web_api_service_LOCAL_be
