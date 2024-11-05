@@ -1,3 +1,4 @@
+spu-cts-agencycc-job.nexdev.net spu_nap_spu_cts_agencycc_job_service_LOCAL_be
 spu-cts-agencycc-job-v3.nexdev.net spu_nap_spu_cts_agencycc_job_service_LOCAL_3_be
 spu-cts-agencycc-job-v2.nexdev.net spu_nap_spu_cts_agencycc_job_service_LOCAL_2_be
 rdtd-sai.nexdev.net spu_ai_wasa_sai_rd_td_service_LOCAL_be
@@ -8,7 +9,6 @@ spu-cts-job-v4.nexdev.net spu_nap_spu_cts_job_service_LOCAL_4_be
 spu-cts-job-v3.nexdev.net spu_nap_spu_cts_job_service_LOCAL_3_be
 spu-main-v5.nexdev.net spu_nap_spu_main_service_LOCAL_5_be
 spu-main-v4.nexdev.net spu_nap_spu_main_service_LOCAL_4_be
-spu-cts-agencycc-job.nexdev.net spu_nap_spu_cts_agencycc_job_service_LOCAL_be
 pasabthrbad-sai.nexdev.net spu_ai_wasa_sai_pas_abt_hrbad_service_LOCAL_be
 v2-paccredit-sai.nexdev.net spu_ai_wasa_sai_pac_credit_service_LOCAL_be
 pasabtsarp-sai.nexdev.net spu_ai_wasa_sai_pas_abt_sarp_service_LOCAL_be
