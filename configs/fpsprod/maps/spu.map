@@ -13,7 +13,10 @@ fpjsc.saceted.com spu_fps_fp_api_js_challenger_service_FPSPROD_be
 exapi.casemed.net spu_fps_fp_external_api_web_service_FPSPROD_be
 exapi.saceted.com spu_fps_fp_external_api_web_service_FPSPROD_be
 exapi.detecas.com spu_fps_fp_external_api_web_service_FPSPROD_be
-#fpswebapi.nebula.prod spu_fps_fps_web_api_job_service_FPSPROD_be
+fpc.detecas.com spu_fps_fps_web_api_job_service_FPSPROD_be
+fpc.trivenzio.com spu_fps_fps_web_api_job_service_FPSPROD_be
+fpc.zenovatrix.net spu_fps_fps_web_api_job_service_FPSPROD_be
+fpc.omnivexium.com spu_fps_fps_web_api_job_service_FPSPROD_be
 ###SPU
 #spumain.oneops.net spu_nap_spu_main_service_FPSPROD_be
 #spucts.oneops.net spu_nap_spu_cts_job_service_FPSPROD_be
@@ -23,7 +26,6 @@ spudcs.oneops.net spu_nap_spu_dcs_job_service_FPSPROD_be
 #spuctscc.oneops.net spu_nap_spu_cts_cc_job_service_FPSPROD_be
 #sputgr.oneops.net spu_nap_spu_tgr_job_service_FPSPROD_be
 #spuafc.oneops.net spu_nap_spu_afc_job_service_FPSPROD_be
-fpc.detecas.com spu_fps_fp_web_api_job_service_FPSPROD_be
 
 ###INTERNAL
 fpsmiddleapi.starixplay.com fps_middle_api_internal_be
