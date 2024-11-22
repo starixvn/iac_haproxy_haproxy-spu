@@ -1,6 +1,7 @@
+fpsapiext.starixuat.com spu_fps_fp_external_api_web_service_UAT_be
+fpsapiext.nebula.prod spu_fps_fp_external_api_web_service_UAT_be
 spudcs.starixuat.com spu_nap_spu_dcs_job_service_UAT_be
 spuctsagencycc.starixuat.com spu_nap_spu_cts_agencycc_job_service_UAT_be
-fpsapiext.starixuat.com spu_fps_fp_external_api_web_service_UAT_be
 fpt-uat.starixuat.com spu_fps_fp_gateway_api_service_UAT_be
 fpt-uat.nebula.prod spu_fps_fp_gateway_api_service_UAT_be
 fpjsc.starixuat.com spu_fps_fp_api_js_challenger_service_UAT_be
