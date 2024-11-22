@@ -1,3 +1,5 @@
+exapi.detecas.com spu_fps_fp_external_api_web_service_FPSPROD_be
+fpsapiext.nebula.prod spu_fps_fp_external_api_web_service_FPSPROD_be
 fpp.detecas.com spu_fps_fps_portal_web_api_job_service_FPSPROD_be
 fpp.casemed.net spu_fps_fps_portal_web_api_job_service_FPSPROD_be
 fpp.saceted.com  spu_fps_fps_portal_web_api_job_service_FPSPROD_be
@@ -22,9 +24,6 @@ fpsapi.nebula.prod spu_fps_fp_gateway_api_service_FPSPROD_be
 fpjsc.detecas.com spu_fps_fp_api_js_challenger_service_FPSPROD_be
 fpjsc.casemed.net spu_fps_fp_api_js_challenger_service_FPSPROD_be
 fpjsc.saceted.com spu_fps_fp_api_js_challenger_service_FPSPROD_be
-exapi.casemed.net spu_fps_fp_external_api_web_service_FPSPROD_be
-exapi.saceted.com spu_fps_fp_external_api_web_service_FPSPROD_be
-exapi.detecas.com spu_fps_fp_external_api_web_service_FPSPROD_be
 ###SPU
 #spumain.oneops.net spu_nap_spu_main_service_FPSPROD_be
 #spucts.oneops.net spu_nap_spu_cts_job_service_FPSPROD_be
