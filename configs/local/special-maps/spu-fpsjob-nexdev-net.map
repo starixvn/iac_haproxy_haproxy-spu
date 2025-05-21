@@ -1,1 +1,2 @@
 ^/healthz(/.*)?$ spu_fps_fp_job_management_service_LOCAL_path_be
+^/ spu_fps_fp_job_management_service_LOCAL_path_be
