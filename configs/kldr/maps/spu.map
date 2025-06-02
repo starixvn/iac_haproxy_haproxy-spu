@@ -7,5 +7,6 @@ cts-vrservice.gamora.prod spu_nap_spu_vr_job_service_KLDR_be
 cts-service.gamora.prod spu_nap_spu_cts_job_service_KLDR_be
 cts-mainservice.gamora.prod spu_nap_spu_main_service_KLDR_be
 cts.byb6181.com spu_cts_KLDR_be
+fs.byb6181.com spu_fraud_sensor_KLDR_be
 #internal
 cts-api.gamora.prod spu_cts_portal_KLDR_be
