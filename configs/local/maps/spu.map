@@ -1,3 +1,4 @@
+kcbknowledgebase-sai.nexdev.net spu_ai_wasa_sai_kcb_knowledgebase_LOCAL_be
 fps-mcp.nexdev.net spu_fps_mcp_server_LOCAL_be
 spu-risksetting-job-v2.nexdev.net spu_nap_spu_risksetting_job_service_LOCAL_2_be
 rsraigenerator-ui-sai.nexdev.net spu_ai_wasa_sai_rsr_aigenerator_ui_LOCAL_be
@@ -7,7 +8,6 @@ spu-fps-int-api.nexdev.net spu_fps_fp_internal_api_web_service_LOCAL_be
 arbbackend-sai.nexdev.net spu_ai_wasa_sai_arb_backend_LOCAL_be
 vn-smdsr-sai.nexdev.net spu_ai_wasa_sai_sm_dsr_service_LOCAL_be
 swatextgenerator-sai.nexdev.net spu_ai_wasa_sai_swa_textgenerator_LOCAL_be
-kcbknowledgebase-sai.nexdev.net spu_ai_wasa_sai_kcb_knowledgebase_LOCAL_be
 kcbchatbotui-sai.nexdev.net spu_ai_wasa_sai_kcb_chatbotui_LOCAL_be
 swatextgenerator-ui-sai.nexdev.net spu_ai_wasa_sai_swa_textgenerator_ui_LOCAL_be
 gbaip-sai.nexdev.net spu_ai_wasa_sai_gb_aip_service_LOCAL_be
