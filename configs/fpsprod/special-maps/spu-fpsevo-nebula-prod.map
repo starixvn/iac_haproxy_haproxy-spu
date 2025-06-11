@@ -1,1 +1,2 @@
-^/healthz(/.*)?$ spu_fps_fp_api_evolution_service_FPSPROD_path_be
+
+^/ spu_fps_fp_api_evolution_service_FPSPROD_path_be
