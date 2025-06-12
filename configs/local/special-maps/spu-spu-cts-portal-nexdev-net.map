@@ -1,2 +1,1 @@
-
-^/ spu_nap_spu_cts_portalapi_LOCAL_path_be
+^/swagger/index.html(/.*)?$ spu_nap_spu_cts_portalapi_LOCAL_path_be
