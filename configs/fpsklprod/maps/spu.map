@@ -1,4 +1,5 @@
 fps-dcs-klp.starixplay.com spu_nap_spu_dcs_job_service_FPSKLPROD_be
+fps-dcs-klp.starix-fpsklprod.gamora.prod spu_nap_spu_dcs_job_service_FPSKLPROD_be
 fps-nsc-klp.starixplay.com spu_fps_fp_di_api_service_FPSKLPROD_be
 fps-fpc-klp.starixplay.com spu_fps_fp_web_api_job_service_FPSKLPROD_be
 fps-trans-api-klp.starixplay.com spu_fps_fp_trans_web_api_service_FPSKLPROD_be
