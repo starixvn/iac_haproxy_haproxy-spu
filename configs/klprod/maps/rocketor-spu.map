@@ -8,3 +8,6 @@ cts-mainservice-klp.starixplay.com spu_nap_spu_main_service_KLPROD_be
 cts-service-klp.starixplay.com spu_nap_spu_cts_job_service_KLPROD_be
 cts-ccservice-klp.starixplay.com spu_nap_spu_cts_cc_job_service_KLPROD_be
 cts-klp.starixplay.com spu_cts_web_KLPROD_be
+fps-sc-klp.starixplay.com spu_fps_di_KLPROD_be
+fps-sub-klp.starixplay.com spu_fps_sub_KLPROD_be
+fps-admin-klp.starixplay.com spu_fps_admin_KLPROD_be
