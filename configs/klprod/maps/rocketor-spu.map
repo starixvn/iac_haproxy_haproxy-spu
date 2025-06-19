@@ -8,5 +8,4 @@ cts-mainservice-klp.starixplay.com spu_nap_spu_main_service_KLPROD_be
 cts-service-klp.starixplay.com spu_nap_spu_cts_job_service_KLPROD_be
 cts-ccservice-klp.starixplay.com spu_nap_spu_cts_cc_job_service_KLPROD_be
 cts-klp.starixplay.com spu_cts_web_KLPROD_be
-tgrs-api.starix-klprod.gamora.prod spu_tgrs_api_KLPROD_be
 fs-klp.starixplay.com spu_fs_web_KLPROD_be 
