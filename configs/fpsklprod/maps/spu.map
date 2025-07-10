@@ -1,3 +1,6 @@
+fps-int-api-klp.starixplay.com spu_fps_fp_internal_api_web_service_FPSKLPROD_be
+fps-int-api-klp.starix-fpsklprod.gamora.prod spu_fps_fp_internal_api_web_service_FPSKLPROD_be
+fps-int-api.oneops.net spu_fps_fp_internal_api_web_service_FPSKLPROD_be
 fps-dcs-klp.starixplay.com spu_nap_spu_dcs_job_service_FPSKLPROD_be
 fps-dcs-klp.starix-fpsklprod.gamora.prod spu_nap_spu_dcs_job_service_FPSKLPROD_be
 fps-dcs.oneops.net spu_nap_spu_dcs_job_service_FPSKLPROD_be
@@ -15,8 +18,6 @@ fpp.casemed.net spu_fps_fps_portal_web_api_job_service_FPSKLPROD_be
 fpp.omnivexium.com spu_fps_fps_portal_web_api_job_service_FPSKLPROD_be
 fps-ext-api-klp.starixplay.com spu_fps_fp_external_api_web_service_FPSKLPROD_be
 fps-ext-api-klp.starix-fpsklprod.gamora.prod spu_fps_fp_external_api_web_service_FPSKLPROD_be
-fps-int-api-klp.starixplay.com spu_fps_fp_internal_api_web_service_FPSKLPROD_be
-fps-int-api-klp.starix-fpsklprod.gamora.prod spu_fps_fp_internal_api_web_service_FPSKLPROD_be
 fps-nsc-klp.starixplay.com spu_fps_fp_di_api_service_FPSKLPROD_be
 fps-fpc-klp.starixplay.com spu_fps_fp_web_api_job_service_FPSKLPROD_be
 fps-api-klp.starix-fpsklprod.gamora.prod spu_fps_fp_gateway_api_service_FPSKLPROD_be
