@@ -1,3 +1,4 @@
+spu-cts-cc-job-v1.nexdev.net spu_nap_spu_cts_cc_job_service_LOCAL_1_be
 rdsce-sai.nexdev.net spu_ai_wasa_sai_rd_sce_service_LOCAL_be
 gbotgb-sai.nexdev.net spu_ai_wasa_sai_gb_otgb_service_LOCAL_be
 gb5g3s-sai.nexdev.net spu_ai_wasa_sai_gb_5g3s_service_LOCAL_be
@@ -79,7 +80,6 @@ fs.nexdev.net spu_fraudsensor2_be
 tgrs.nexdev.net spu_naptgrs_be
 spu-afc-job.nexdev.net spu_nap_spu_afc_job_service_LOCAL_be
 spu-cts-cc-job-v2.nexdev.net spu_nap_spu_cts_cc_job_service_LOCAL_2_be
-spu-cts-cc-job-v1.nexdev.net spu_nap_spu_cts_cc_job_service_LOCAL_1_be
 spu-cts-cc-job.nexdev.net spu_nap_spu_cts_cc_job_service_LOCAL_be
 spu-tgr-job.nexdev.net spu_nap_spu_tgr_job_service_LOCAL_be
 spu-vr-job.nexdev.net spu_nap_spu_vr_job_service_LOCAL_be
