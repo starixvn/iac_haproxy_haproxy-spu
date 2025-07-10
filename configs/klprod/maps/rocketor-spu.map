@@ -1,3 +1,5 @@
+fs-bsngservice-simple-klp.starixplay.com spu_nap_spu_fs_bsng_job_service_KLPROD_1_be
+spufsbsng.oneops.net spu_nap_spu_fs_bsng_job_service_KLPROD_1_be
 cts-service-klp.starixplay.com spu_nap_spu_cts_job_service_KLPROD_be
 spucts.oneops.net spu_nap_spu_cts_job_service_KLPROD_be
 cts-ccservice-klp.starixplay.com spu_nap_spu_cts_cc_job_service_KLPROD_be
@@ -20,7 +22,6 @@ vn-licbdlb-sai.starix-klprod.gamora.prod spu_ai_wasa_sai_lic_bdlb_service_KLPROD
 cts-vrservice-simple-klp.starixplay.com spu_nap_spu_vr_job_service_KLPROD_1_be
 cts-mainservice-simple-klp.starixplay.com spu_nap_spu_main_service_KLPROD_1_be
 fs-service-simple-klp.starixplay.com spu_nap_spu_fs_job_service_KLPROD_1_be
-fs-bsngservice-simple-klp.starixplay.com spu_nap_spu_fs_bsng_job_service_KLPROD_1_be
 cts-service-simple-klp.starixplay.com spu_nap_spu_cts_job_service_KLPROD_1_be
 cts-ccservice-simple-klp.starixplay.com spu_nap_spu_cts_cc_job_service_KLPROD_1_be
 cts-agencyccservice-simple-klp.starixplay.com spu_nap_spu_cts_agencycc_job_service_KLPROD_1_be
