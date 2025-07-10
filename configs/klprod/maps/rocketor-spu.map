@@ -1,3 +1,6 @@
+cts-api-klp.starix-klprod.gamora.prod spu_nap_spu_cts_portalapi_KLPROD_be
+cts-api-klp.starixplay.com spu_nap_spu_cts_portalapi_KLPROD_be
+cts-api.oneops.com spu_nap_spu_cts_portalapi_KLPROD_be
 vr-settingservice-klp.starixplay.com spu_nap_spu_vr_job_service_KLPROD_be
 spuvr.oneops.net spu_nap_spu_vr_job_service_KLPROD_be
 vn-rdsce-sai.starix-klprod.gamora.prod spu_ai_wasa_sai_rd_sce_service_KLPROD_be
@@ -18,8 +21,6 @@ cts-agencyccservice-simple-klp.starixplay.com spu_nap_spu_cts_agencycc_job_servi
 cts-api-simple-klp.starix-klprod.gamora.prod spu_nap_spu_cts_portalapi_KLPROD_1_be
 cts-api-simple-klp.starixplay.com spu_nap_spu_cts_portalapi_KLPROD_1_be
 cts-agencyccservice-klp.starixplay.com spu_nap_spu_cts_agencycc_job_service_KLPROD_be
-cts-api-klp.starix-klprod.gamora.prod spu_nap_spu_cts_portalapi_KLPROD_be
-cts-api-klp.starixplay.com spu_nap_spu_cts_portalapi_KLPROD_be
 fs-bsngservice-klp.starixplay.com spu_nap_spu_fs_bsng_job_service_KLPROD_be
 fs-service-klp.starixplay.com spu_nap_spu_fs_job_service_KLPROD_be
 fps-nsc-klp.starixplay.com spu_fps_fp_di_api_service_KLPROD_be
