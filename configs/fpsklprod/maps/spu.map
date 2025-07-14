@@ -1,3 +1,11 @@
+fps-api-klp.starix-fpsklprod.gamora.prod spu_fps_fp_gateway_api_service_FPSKLPROD_be
+fps-api-klp.starixplay.com spu_fps_fp_gateway_api_service_FPSKLPROD_be
+api.detecas.com spu_fps_fp_gateway_api_service_FPSKLPROD_be
+api.trivenzio.com spu_fps_fp_gateway_api_service_FPSKLPROD_be
+api.zenovatrix.net spu_fps_fp_gateway_api_service_FPSKLPROD_be
+api.saceted.com spu_fps_fp_gateway_api_service_FPSKLPROD_be
+api.casemed.net spu_fps_fp_gateway_api_service_FPSKLPROD_be
+api.omnivexium.com spu_fps_fp_gateway_api_service_FPSKLPROD_be
 fpjsc.detecas.com spu_fps_fp_api_js_challenger_service_FPSKLPROD_be
 fpjsc.trivenzio.com spu_fps_fp_api_js_challenger_service_FPSKLPROD_be
 fpjsc.zenovatrix.net spu_fps_fp_api_js_challenger_service_FPSKLPROD_be
@@ -35,8 +43,6 @@ fpp.omnivexium.com spu_fps_fps_portal_web_api_job_service_FPSKLPROD_be
 fps-ext-api-klp.starixplay.com spu_fps_fp_external_api_web_service_FPSKLPROD_be
 fps-ext-api-klp.starix-fpsklprod.gamora.prod spu_fps_fp_external_api_web_service_FPSKLPROD_be
 fps-fpc-klp.starixplay.com spu_fps_fp_web_api_job_service_FPSKLPROD_be
-fps-api-klp.starix-fpsklprod.gamora.prod spu_fps_fp_gateway_api_service_FPSKLPROD_be
-fps-api-klp.starixplay.com spu_fps_fp_gateway_api_service_FPSKLPROD_be
 #
 fps-sc-klp.starixplay.com spu_fps_di_KLPROD_be
 fps-sub-klp.starixplay.com spu_fps_sub_KLPROD_be
