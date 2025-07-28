@@ -1,3 +1,4 @@
+kcbchatbotui-sai.nexdev.net spu_ai_wasa_sai_kcb_chatbotui_LOCAL_be
 rsraigenerator-sai.nexdev.net spu_ai_wasa_sai_rsr_aigenerator_LOCAL_be
 kcbknowledgebase-sai.nexdev.net spu_ai_wasa_sai_kcb_knowledgebase_LOCAL_be
 spu-cts-cc-job-v1.nexdev.net spu_nap_spu_cts_cc_job_service_LOCAL_1_be
@@ -12,7 +13,6 @@ spu-main-v2.nexdev.net spu_nap_spu_main_service_LOCAL_2_be
 spu-cts-portal-v1.nexdev.net spu_nap_spu_cts_portalapi_LOCAL_1_be
 spu-cts-portal.nexdev.net spu_nap_spu_cts_portalapi_LOCAL_be
 n8ndmm-sai.nexdev.net spu_ai_wasa_sai_n8n_dmm_service_LOCAL_be
-kcbchatbotui-sai.nexdev.net spu_ai_wasa_sai_kcb_chatbotui_LOCAL_be
 fps-mcp.nexdev.net spu_fps_mcp_server_LOCAL_be
 rsraigenerator-ui-sai.nexdev.net spu_ai_wasa_sai_rsr_aigenerator_ui_LOCAL_be
 spu-fps-int-api.nexdev.net spu_fps_fp_internal_api_web_service_LOCAL_be
