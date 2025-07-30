@@ -19,5 +19,5 @@ spuctscc.starixuat.com spu_nap_spu_cts_cc_job_service_UAT_be
 spuvr.starixuat.com spu_nap_spu_vr_job_service_UAT_be
 spuafc.starixuat.com spu_nap_spu_afc_job_service_UAT_be
 cts-api.starixuat.com spu_CTS_Portal_API_be
-cts.kl.starixuat.com spu_cts_web_UAT_be
+cts.kl.starixuat.com spu_cts_web_UAT_be 
 ####internal
