@@ -1,3 +1,5 @@
+fs-service-klprod.gamora.prod spu_nap_spu_fs_job_service_KLPROD_be
+spufs.oneops.net spu_nap_spu_fs_job_service_KLPROD_be
 vn-rsraigenerator-ui-sai.starix-klprod.gamora.prod spu_ai_wasa_sai_rsr_aigenerator_ui_KLPROD_be
 vn-rsraigenerator-ui-sai.oneops.net spu_ai_wasa_sai_rsr_aigenerator_ui_KLPROD_be
 kcbchatbotui.oneops.net spu_aiml_ss_kcb_chatbotui_klprod
@@ -28,8 +30,6 @@ vn-rdti-sai.starix-klprod.gamora.prod spu_ai_wasa_sai_rd_ti_service_KLPROD_be
 vn-rdocrd-sai.starix-klprod.gamora.prod spu_ai_wasa_sai_rd_ocrd_service_KLPROD_be
 cts-mainservice-klp.starixplay.com spu_nap_spu_main_service_KLPROD_be
 spumain.oneops.net spu_nap_spu_main_service_KLPROD_be
-fs-service-klp.starixplay.com spu_nap_spu_fs_job_service_KLPROD_be
-spufs.oneops.net spu_nap_spu_fs_job_service_KLPROD_be
 fs-bsngservice-simple-klp.starixplay.com spu_nap_spu_fs_bsng_job_service_KLPROD_1_be
 cts-service-klp.starixplay.com spu_nap_spu_cts_job_service_KLPROD_be
 spucts.oneops.net spu_nap_spu_cts_job_service_KLPROD_be
