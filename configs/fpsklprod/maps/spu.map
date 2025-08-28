@@ -1,3 +1,10 @@
+fps-nsc1-klp.starixplay.com spu_fps_fp_di_api_service_FPSKLPROD_be
+nsc1.detecas.com spu_fps_fp_di_api_service_FPSKLPROD_be
+nsc1.trivenzio.com spu_fps_fp_di_api_service_FPSKLPROD_be
+nsc1.zenovatrix.net spu_fps_fp_di_api_service_FPSKLPROD_be
+nsc1.saceted.com spu_fps_fp_di_api_service_FPSKLPROD_be
+nsc1.casemed.net spu_fps_fp_di_api_service_FPSKLPROD_be
+nsc1.omnivexium.com spu_fps_fp_di_api_service_FPSKLPROD_be
 fps-api-klp.starix-fpsklstaging.gamora.prod spu_fps_powered_device_fp_gateway_FPSKLPROD_be
 api-staging.detecas.com spu_fps_powered_device_fp_gateway_FPSKLPROD_be
 fanexdataservicefps.starix-fpsklprod.gamora.prod spu_fps_fanexdataservice_FPSKLPROD_be
@@ -29,13 +36,6 @@ api.zenovatrix.net spu_fps_fp_gateway_api_service_FPSKLPROD_be
 api.saceted.com spu_fps_fp_gateway_api_service_FPSKLPROD_be
 api.casemed.net spu_fps_fp_gateway_api_service_FPSKLPROD_be
 api.omnivexium.com spu_fps_fp_gateway_api_service_FPSKLPROD_be
-fps-nsc-klp.starixplay.com spu_fps_fp_di_api_service_FPSKLPROD_be
-nsc.detecas.com spu_fps_fp_di_api_service_FPSKLPROD_be
-nsc.trivenzio.com spu_fps_fp_di_api_service_FPSKLPROD_be
-nsc.zenovatrix.net spu_fps_fp_di_api_service_FPSKLPROD_be
-nsc.saceted.com spu_fps_fp_di_api_service_FPSKLPROD_be
-nsc.casemed.net spu_fps_fp_di_api_service_FPSKLPROD_be
-nsc.omnivexium.com spu_fps_fp_di_api_service_FPSKLPROD_be
 fps-evo-api-klp.starix-fpsklprod.gamora.prod spu_fps_fp_api_evolution_service_FPSKLPROD_be
 fps-evo-api-klp.starixplay.com spu_fps_fp_api_evolution_service_FPSKLPROD_be
 fps-evo-api.oneops.net spu_fps_fp_api_evolution_service_FPSKLPROD_be
