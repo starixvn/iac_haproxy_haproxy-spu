@@ -1,3 +1,4 @@
+fpt-local-bk.nexdev.net spu_fps_fp_gateway_api_service_LOCAL_be
 rsraigenerator-sai-v2.nexdev.net spu_ai_wasa_sai_rsr_aigenerator_v2_LOCAL_be
 fps-gateway.nexdev.net spu_fps_powered_device_fp_gateway_stg_LOCAL_be
 vn-rsraigenerator-ui-nexdev.net spu_ai_wasa_sai_rsr_aigenerator_ui_v2_LOCAL_be
@@ -58,7 +59,6 @@ fps-incognito-demo.nexdev.net spu_fps_incognito_mode_demo_LOCAL_be
 spu-fps-api2.nexdev.net spu_fps_fp_web_api_job_service_LOCAL_2_be
 rdocrd-sai.nexdev.net spu_nap_wasa_sai_rd_ocrd_service_LOCAL_be
 fpt-api.nexdev.net spu_fps_fp_trans_web_api_service_LOCAL_be
-fpt-local.nexdev.net spu_fps_fp_gateway_api_service_LOCAL_be
 passfbtpb-sai.nexdev.net spu_nap_wasa_sai_pas_sfb_tpb_service_LOCAL_be
 fpsjschallenger.nexdev.net spu_fps_fp_api_js_challenger_service_LOCAL_be
 chinesepoker-sai.nexdev.net spu_nap_wasa_sai_chinesepoker_service_LOCAL_be
