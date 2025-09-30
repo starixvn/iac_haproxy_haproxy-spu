@@ -1,3 +1,4 @@
+spu-main.nexdev.net spu_nap_spu_main_service_LOCAL_be
 fps-trans-staging2.nexdev.net spu_fps_powered_device_fp_trans_stg_api_LOCAL_2_be
 fps-trans-staging.nexdev.net spu_fps_powered_device_fp_trans_stg_api_LOCAL_be
 fps-powered-demo.nexdev.net spu_fps_powered_device_fp_stg_script_LOCAL_be
@@ -104,7 +105,6 @@ spu-dcs-job.nexdev.net spu_nap_spu_dcs_job_service_LOCAL_be
 spu-cts-job.nexdev.net spu_nap_spu_cts_job_service_LOCAL_be
 spu-cts-job-v1.nexdev.net spu_nap_spu_cts_job_service_LOCAL_1_be
 spu-cts-job-v2.nexdev.net spu_nap_spu_cts_job_service_LOCAL_2_be
-spu-main.nexdev.net spu_nap_spu_main_service_LOCAL_be
 spu-main-v3.nexdev.net spu_nap_spu_main_service_LOCAL_3_be
 fps-demo-standard.nexdev.net spu_fps_fp_demo_net_standard_LOCAL_be
 #nexdev.net nexus_nexcel_redmine_PROD_be
