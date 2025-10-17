@@ -1,3 +1,4 @@
+rsraigenerator-sai.nexdev.net spu_ai_wasa_sai_rsr_aigenerator_LOCAL_be
 spu-cts-cc-job-v6.klc.nexdev.net spu_nap_spu_cts_cc_job_service_LOCAL_6_be
 spu-fs-job-v1.nexdev.net spu_nap_spu_fs_job_service_LOCAL_1_be
 spu-cts-job-v5.klc.nexdev.net spu_nap_spu_cts_job_service_LOCAL_5_be
@@ -20,7 +21,6 @@ fps-gateway.nexdev.net spu_fps_powered_device_fp_gateway_LOCAL_be
 vn-rsraigenerator-ui-nexdev.net spu_ai_wasa_sai_rsr_aigenerator_ui_v2_LOCAL_be
 fps-consumer.nexdev.net spu_fps_ai_power_device_fp_consumer_LOCAL_be
 fps-pwr-dfp.nexdev.net spu_fps_powered_device_fp_script_LOCAL_be
-rsraigenerator-sai.nexdev.net spu_ai_wasa_sai_rsr_aigenerator_LOCAL_be
 spu-cts-portal-dev.nexdev.net spu_nap_spu_cts_portalapi_LOCAL_99_be
 spu-cts-cc-job-dev.nexdev.net spu_nap_spu_cts_cc_job_service_LOCAL_99_be
 spu-cts-agencycc-job-dev.nexdev.net spu_nap_spu_cts_agencycc_job_service_LOCAL_99_be
