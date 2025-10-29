@@ -1,3 +1,6 @@
+cts-api-klp.starix-klprod.gamora.prod spu_nap_spu_cts_portalapi_KLPROD_be
+cts-api.oneops.net spu_nap_spu_cts_portalapi_KLPROD_be
+cts-api.gcpcindy.com spu_nap_spu_cts_portalapi_KLPROD_be
 exapi-staging.detecas.com spu_fps_powered_device_fp_external_stg_KLPROD_be
 vn-rsraigenerator-ui-sai.starix-klprod.gamora.prod spu_ai_wasa_sai_rsr_aigenerator_ui_v2_KLPROD_be
 vn-rsraigenerator-ui-sai.oneops.net spu_ai_wasa_sai_rsr_aigenerator_ui_v2_KLPROD_be
@@ -16,9 +19,6 @@ vn-gb5g3s-sai.starix-klprod.gamora.prod spu_ai_wasa_sai_gb_5g3s_service_KLPROD_b
 vn-rdsce-sai.starix-klprod.gamora.prod spu_ai_wasa_sai_rd_sce_service_KLPROD_be
 fs-bsngservice-klp.starixplay.com spu_nap_spu_fs_bsng_job_service_KLPROD_be
 spufsbsng.oneops.net spu_nap_spu_fs_bsng_job_service_KLPROD_be
-cts-api-klp.starix-klprod.gamora.prod spu_nap_spu_cts_portalapi_KLPROD_be
-cts-api.oneops.net spu_nap_spu_cts_portalapi_KLPROD_be
-cts-api.gcpcindy.com spu_nap_spu_cts_portalapi_KLPROD_be
 vn-gbaip5g-sai.starix-klprod.gamora.prod spu_ai_wasa_sai_gb_aip5g_service_KLPROD_be
 vn-gbotgb-sai.starix-klprod.gamora.prod spu_ai_wasa_sai_gb_otgb_service_KLPROD_be
 vn-paccredit-sai.starix-klprod.gamora.prod spu_ai_wasa_sai_pac_credit_service_KLPROD_be
