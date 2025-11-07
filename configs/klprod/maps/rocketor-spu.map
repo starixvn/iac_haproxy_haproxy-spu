@@ -43,6 +43,7 @@ spuctsagencycc.oneops.net spu_nap_spu_cts_agencycc_job_service_KLPROD_be
 vr-settingservice-klp.starixplay.com spu_nap_spu_vr_job_service_KLPROD_be
 spuvr.oneops.net spu_nap_spu_vr_job_service_KLPROD_be
 saiss.oneops.net spu_aiml_ss_airflow_webserver_klprod
+sai-qdrant.oneops.net spu_aiml_vectordb_qdrant_webserver_klprod
 cts-vrservice-simple-klp.starixplay.com spu_nap_spu_vr_job_service_KLPROD_1_be
 cts-mainservice-simple-klp.starixplay.com spu_nap_spu_main_service_KLPROD_1_be
 fs-service-simple-klp.starixplay.com spu_nap_spu_fs_job_service_KLPROD_1_be
@@ -58,3 +59,4 @@ fs-klp.starixplay.com spu_fs_web_KLPROD_be
 fs.oneops.net spu_fs_web_KLPROD_be 
 fs-simple-klp.starixplay.com spu_fs_web_simple_KLPROD_be
 cts-simple-klp.starixplay.com spu_cts_web_simple_KLPROD_be
+
