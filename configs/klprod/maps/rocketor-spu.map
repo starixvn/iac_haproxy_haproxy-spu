@@ -58,3 +58,4 @@ fs-klp.starixplay.com spu_fs_web_KLPROD_be
 fs.oneops.net spu_fs_web_KLPROD_be 
 fs-simple-klp.starixplay.com spu_fs_web_simple_KLPROD_be
 cts-simple-klp.starixplay.com spu_cts_web_simple_KLPROD_be
+sai-qdrant.oneops.net spu_aiml_vectordb_qdrant_webserver_prod
